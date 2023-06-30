@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shivam5620
-- 👀 I’m interested in: problem solving and create APIdevelopment
+- 👀 I’m interested in: problem solving and create Web-Development
 - 🌱 I’m currently learning: MERN stack(Full stack Development)
-- 💞️ I’m looking for help with: Web Development and APISecurity.
+- 💞️ I’m looking for help with: Web Development.
 - ⚡ Fun fact: Right now I'm looking at you, 'cause you're looking at me.
 - 💬 Ask me about:- Anything ( not my personal life , duhh !! )
 - 📄 Check out my resume : Resume
