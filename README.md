@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Shivam5620
+- 👋 Hi, I’m @Shivam Birla 
 - 👀 I’m interested in: problem solving and create Web-Development
-- 🌱 I’m currently learning: MERN stack(Full stack Development)
+- 🌱 I’m currently learning: **MERN**(Full stack Development)
 - 💞️ I’m looking for help with: Web Development.
 - ⚡ Fun fact: Right now I'm looking at you, 'cause you're looking at me.
 - 💬 Ask me about:- Anything ( not my personal life , duhh !! )
-- 📄 Check out my resume : Resume
-- 📑 Check out my Portfolio : Portfolio
+- 📄 Check out my resume : **Resume**
+- 📑 Check out my Portfolio : **Portfolio**
 - 📫 How to reach me :Linkdian,Resume And Portfolio.
 
 <!---
