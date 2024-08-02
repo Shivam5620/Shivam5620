@@ -1,4 +1,4 @@
-Portfolio = "https://github.com/Shivam5620/Shivam5620/edit/main/README.md "
+
 - 👋 Hi, I’m @Shivam Birla 
 - 👀 I’m interested in: problem solving and create Web-Development
 - 🌱 I’m currently learning: **MERN**(Full stack Development)
@@ -10,6 +10,7 @@ Portfolio = "https://github.com/Shivam5620/Shivam5620/edit/main/README.md "
 - 📫 How to reach me :Linkdian,Resume And Portfolio.
 
 <!---
+const Portfolio ="https://rad-nasturtium-92bfa8.netlify.app"
 Shivam5620/Shivam5620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
