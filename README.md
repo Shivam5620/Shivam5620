@@ -5,7 +5,7 @@
 - 💞️ I’m looking for help with: Web Development.
 - ⚡ Fun fact: Right now I'm looking at you, 'cause you're looking at me.
 - 💬 Ask me about:- Anything ( not my personal life , duhh !! )
-🔭 I’m currently working on Nest js<br>🌱 I’m currently learning NLP and Ai models<br>💬 Ask me about Web-development (MERN)
+🔭 I’m currently working on Mern js<br>🌱 I’m currently learning NLP and Nest models<br>💬 Ask me about Web-development (MERN)
 - 
 
 ## 🌐 Socials:
