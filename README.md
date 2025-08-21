@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Shivam Birla 
+- 👋 Hi, I’m @Shivam Patil 
 - 👀 I’m interested in: problem solving and create Web-Development
 - 🌱 I’m currently learning: **MERN**(Full stack Development)
 - 💞️ I’m looking for help with: Web Development.
