@@ -9,6 +9,7 @@
 - 
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bright-beignet-223913.netlify.app/)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-birla-71238022a/)
 
 # 💻 Tech Stack:
